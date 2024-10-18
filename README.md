@@ -30,8 +30,7 @@ After determining the actors, the second step in use case analysis is to determi
 * ❏ ... by author.
 * ❏ ... by subject.
 * ❏ Place a book on hold if it is on loan to somebody else.
-* ❏ Check  the  borrower’s  personal  information  and  list  of  books  currently
-borrowed.
+* ❏ Check  the  borrower’s  personal  information  and  list  of  books  currently borrowed.
 
 ### Checkout Clerk:
 * ❏ All the Borrower use cases, plus
